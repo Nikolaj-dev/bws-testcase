@@ -9,7 +9,7 @@
 Для начала, клонируйте репозиторий на вашу машину:
 
 ```bash
-git clone https://github.com/your-username/bws-testcase.git
+git clone https://github.com/Nikolaj-dev/bws-testcase.git
 cd bws-testcase
 ```
 
